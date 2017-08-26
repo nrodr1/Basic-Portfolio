@@ -18,11 +18,13 @@ header {
 body {
  	background-color: white;
  	font-family: 'Rubik', sans-serif;
+ 	border-color: #A6A6A6;
 }
 
 li {
 	display: inline;
 }
+
 
 aside {
 	background-color: white;
