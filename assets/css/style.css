@@ -56,6 +56,7 @@ a:link    {
 /*---------Applies to visited links---------*/
 a:visited {
   text-decoration: none;
+  color: white;
  } 
 /*---------Applies to links when pointer is over them---------*/
 a:hover   {
